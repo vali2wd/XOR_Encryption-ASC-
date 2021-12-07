@@ -6,6 +6,7 @@ https://cs.unibuc.ro/~crusu/asc/Arhitectura%20Sistemelor%20de%20Calcul%20(ASC)%2
   
   
 
-Echipa adversa: https://github.com/vladciocoiu/xor-encryption
+Echipa adversa: https://github.com/vladciocoiu/xor-encryption 
 Parola gasita conform primei cerinte: 3R4f7diGgk5PkT
 
+Am deschis output-ul cu un Hex editor si am xor-at inputul cu outputul, astfel obtinand cheia.
